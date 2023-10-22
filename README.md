@@ -1,0 +1,2 @@
+# Whitepaper
+Whitepaper and tokenomics
